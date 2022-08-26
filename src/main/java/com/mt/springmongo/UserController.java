@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * Controller which handles reqest for saving {@link User}s.
  *
- * @author LandmarkTech
+ * @author BlessingTech
  */
 @Controller
 public class UserController {
